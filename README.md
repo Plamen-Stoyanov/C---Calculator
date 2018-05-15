@@ -1,1 +1,3 @@
-# Simple-Calculator
+Simple flat-designed calculator on C#
+
+
